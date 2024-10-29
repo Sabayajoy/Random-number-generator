@@ -1,0 +1,40 @@
+# Random Number Generator
+
+A simple and customizable random number generator built with HTML, CSS, and JavaScript. Generate random numbers within your specified range with various options for customization.
+
+## 🚀 Features
+
+- Generate random numbers within a custom range
+- Option to include/exclude decimal numbers
+- Copy results to clipboard
+- Configurable number of results
+- Instant generation with real-time validation
+- Mobile-responsive design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/random-number-generator.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd random-number-generator
+```
+
+3. Open `index.html` in your web browser
+
+## 💻 Usage
+
+1. Enter your desired minimum and maximum values
+2. Select whether you want decimal numbers or integers
+3. Choose how many numbers you want to generate
+4. Click the "Generate" button
+5. Use the "Copy" button to copy results to clipboard
